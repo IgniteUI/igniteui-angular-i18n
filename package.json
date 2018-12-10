@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "IgniteUI for Angular localization resources repository",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
@@ -23,7 +24,9 @@
   },
   "homepage": "https://github.com/IgniteUI/igniteui-angular-i18n#readme",
   "devDependencies": {
+    "@types/node": "^10.12.12",
     "igniteui-angular": "^7.0.2",
+    "tslint": "^5.11.0",
     "typescript": "^3.2.2"
   },
   "peerDependencies": {
