@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "lint": "tslint 'src/**/*.ts'"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,10 @@
   },
   "homepage": "https://github.com/IgniteUI/igniteui-angular-i18n#readme",
   "devDependencies": {
+    "@angular/compiler": "^7.0.3",
+    "@angular/core": "^7.0.3",
     "@types/node": "^10.12.12",
+    "codelyzer": "~4.5.0",
     "igniteui-angular": "^7.0.2",
     "tslint": "^5.11.0",
     "typescript": "^3.2.2"
