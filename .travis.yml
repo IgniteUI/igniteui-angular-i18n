@@ -7,14 +7,15 @@ script:
 - npm run build
 
 before_deploy:
+# copy files
+- cp README.md dist/README.md
+- cp package.json dist/package.json
+- cp LICENSE dist/LICENSE
 # move to dist
 - cd dist
 # update package versions
 - npm version "${TRAVIS_TAG}" --no-git-tag-version --save
 - if [[ "${TRAVIS_TAG}" == *"beta"* ]]; then export NPM_TAG="next"; else export NPM_TAG="latest"; fi
-
-# copy readme
-- cp ../../README.md README.md
 
 deploy:
   provider: npm
