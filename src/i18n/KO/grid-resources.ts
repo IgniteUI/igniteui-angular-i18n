@@ -1,5 +1,8 @@
 import { IGridResourceStrings } from 'igniteui-angular';
 
+/**
+ * Korean resource strings for IgxGrid
+ */
 export const GridResourceStringsKO: IGridResourceStrings = {
     igx_grid_groupByArea_message: 'Drag a column header and drop it here to group by that column.',
     igx_grid_emptyFilteredGrid_message: 'No records found.',
