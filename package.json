@@ -1,0 +1,45 @@
+{
+  "name": "igniteui-angular-i18n",
+  "version": "1.0.0",
+  "description": "IgniteUI for Angular localization resources repository",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint 'src/**/*.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgniteUI/igniteui-angular-i18n.git"
+  },
+  "keywords": [
+    "IgniteUI",
+    "Angular",
+    "i18n",
+    "Infragistics"
+  ],
+  "author": "Infragistics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgniteUI/igniteui-angular-i18n/issues"
+  },
+  "homepage": "https://github.com/IgniteUI/igniteui-angular-i18n#readme",
+  "devDependencies": {
+    "@angular/animations": "^7.0.3",
+    "@angular/common": "^7.0.3",
+    "@angular/compiler": "^7.0.3",
+    "@angular/core": "^7.0.3",
+    "@angular/forms": "^7.0.3",
+    "@angular/platform-browser": "^7.0.3",
+    "@types/node": "^10.12.12",
+    "igniteui-angular": "^7.1.0-beta.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.2",
+    "rxjs": "^6.3.3",
+    "web-animations-js": "^2.3.1",
+    "zone.js": "^0.8.26"
+  },
+  "peerDependencies": {
+    "igniteui-angular": "^7.1.0-beta.1"
+  }
+}
