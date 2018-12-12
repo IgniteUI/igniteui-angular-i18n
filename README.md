@@ -4,12 +4,12 @@
 
 ## Purpose
 
-This respository stores the Japanese and Korean resource strings for the Ignite UI for Angular `i18n`. The English resource strings are stored in the [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) repository. It also contains the interfaces for each localizable component's `resourceStrings` property. They can be used as a schema for creating custom resource strings.
+This respository stores resource strings for the Ignite UI for Angular `i18n`. The English resource strings and the interfaces for each localizable component's `resourceStrings` property are stored in the [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) repository. The interfaces can be used as a schema for creating custom resource strings.
 
 ## File Usage
 
-An npm package will be produced and it will be referenced in the Ignite UI for Angular product.
+An npm package will be produced and it could be referenced alongside with the igniteui-angular in the clients' projects.
 
 ## Branches
 
-The branching scheme must follow the [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) branching.  Work in the master branch, and when we are getting ready for a release, create a versioned branch (ex. 6.2.x). This will allow the build to get the correct version of the files.
+The branching scheme must follow the [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) branching. In order to get the correct resource strings the `igniteui-angular` and `igniteui-angular-i18n` packages should have the same version in the clients' projects.
