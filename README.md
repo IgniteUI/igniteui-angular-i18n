@@ -1,6 +1,7 @@
 # igniteui-angular-i18n
 
 [![Build Status](https://travis-ci.org/IgniteUI/igniteui-angular-i18n.svg?branch=master)](https://travis-ci.org/IgniteUI/igniteui-angular-i18n)
+[![npm version](https://badge.fury.io/js/igniteui-angular-i18n.svg)](https://badge.fury.io/js/igniteui-angular-i18n)
 
 ## Purpose
 
