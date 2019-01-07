@@ -47,5 +47,5 @@ export const GridResourceStringsKO: IGridResourceStrings = {
     igx_grid_summary_min: 'Min',
     igx_grid_summary_max: 'Max',
     igx_grid_summary_sum: 'Sum',
-    igx_grid_summary_average: 'Avg',
+    igx_grid_summary_average: 'Avg'
 };
