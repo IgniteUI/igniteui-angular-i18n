@@ -48,4 +48,6 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_summary_max: '最大',
     igx_grid_summary_sum: '合計',
     igx_grid_summary_average: '平均',
+    igx_grid_summary_earliest: 'Earliest',
+    igx_grid_summary_latest: 'Latest',
 };
