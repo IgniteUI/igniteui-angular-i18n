@@ -47,5 +47,7 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_summary_min: '最小',
     igx_grid_summary_max: '最大',
     igx_grid_summary_sum: '合計',
-    igx_grid_summary_average: '平均'
+    igx_grid_summary_average: '平均',
+    igx_grid_summary_earliest: '最も早い日',
+    igx_grid_summary_latest: '最も遅い日'
 };
