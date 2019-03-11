@@ -13,4 +13,4 @@ An npm package will be produced and it could be referenced alongside with the ig
 
 ## Branches
 
-The branching scheme must follow the [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) branching. In order to get the correct resource strings the `igniteui-angular` and `igniteui-angular-i18n` packages should have the same version in the clients' projects.
+The branching scheme must follow the [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) branching. In order to get the correct resource strings for `igniteui-angular` package the `igniteui-angular-i18n` package should have the latest corresponding major version in the clients' projects. For example if `igniteui-angular` has version `7.2.1` the `igniteui-angular-i18n` should have version `^7.2.0`.
