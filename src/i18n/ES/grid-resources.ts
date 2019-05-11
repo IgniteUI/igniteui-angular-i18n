@@ -6,7 +6,7 @@ import { IGridResourceStrings } from 'igniteui-angular';
 export const GridResourceStringsES: IGridResourceStrings = {
   igx_grid_groupByArea_message: 'Arrastre un encabezado de columna y suéltelo aquí para agrupar por esa columna.',
   igx_grid_emptyFilteredGrid_message: 'No se encontraron registros.',
-  igx_grid_emptyGrid_message: 'La cuadricula no tiene Datos.',
+  igx_grid_emptyGrid_message: 'No hay datos.',
   igx_grid_filter: 'Filtro',
   igx_grid_filter_row_close: 'Cerrar',
   igx_grid_filter_row_reset: 'Limpiar',
