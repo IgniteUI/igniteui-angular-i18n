@@ -1,4 +1,3 @@
-    
 import { GridResourceStringsES } from './grid-resources';
 import { TimePickerResourceStringsES } from './time-picker-resources';
 
