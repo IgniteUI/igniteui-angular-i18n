@@ -61,6 +61,7 @@ export const GridResourceStringsES: IGridResourceStrings = {
   igx_grid_excel_filter_sorting_desc: 'descendente',
   igx_grid_excel_filter_sorting_desc_short: 'desc',
   igx_grid_excel_filter_sorting_header: 'orden',
+  igx_grid_excel_filter_reset: 'Reset column filters',
   igx_grid_excel_custom_dialog_add: 'añadir filtro',
   igx_grid_excel_custom_dialog_clear: 'Limpiar filtro',
   igx_grid_excel_custom_dialog_header: 'Auto-filtro personalizado para: ',
