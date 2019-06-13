@@ -61,7 +61,7 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_excel_filter_sorting_desc: '降順',
     igx_grid_excel_filter_sorting_desc_short: '降',
     igx_grid_excel_filter_sorting_header: '並べ替え',
-    igx_grid_excel_filter_clear: 'Clear column filters',
+    igx_grid_excel_filter_clear: '列フィルターのクリア',
     igx_grid_excel_custom_dialog_add: 'フィルターの追加',
     igx_grid_excel_custom_dialog_clear: 'フィルターのクリア',
     igx_grid_excel_custom_dialog_header: '列のカスタム自動フィルター: ',
