@@ -32,7 +32,7 @@
     "@angular/forms": "^7.2.15",
     "@angular/platform-browser": "^7.2.15",
     "@types/node": "^10.14.9",
-    "igniteui-angular": "^7.3.4",
+    "igniteui-angular": "^7.3.5",
     "rxjs": "^6.5.2",
     "tslint": "^5.17.0",
     "typescript": "^3.5.2",
