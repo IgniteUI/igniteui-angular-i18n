@@ -77,5 +77,6 @@ export const GridResourceStringsKO: IGridResourceStrings = {
     igx_grid_excel_number_filter: 'Number filter',
     igx_grid_excel_date_filter: 'Date filter',
     igx_grid_excel_boolean_filter: 'Boolean filter',
-    igx_grid_excel_custom_filter: 'Custom filter...'
+    igx_grid_excel_custom_filter: 'Custom filter...',
+    igx_grid_paginator_label: 'Items per page'
 };
