@@ -77,5 +77,16 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_excel_number_filter: '数値フィルター',
     igx_grid_excel_date_filter: '日付フィルター',
     igx_grid_excel_boolean_filter: 'ブール値フィルター',
-    igx_grid_excel_custom_filter: 'カスタム フィルター...'
+    igx_grid_excel_custom_filter: 'カスタム フィルター...',
+    igx_grid_advanced_filter_title: 'Adv. Filtering',
+    igx_grid_advanced_filter_and_label: 'and',
+    igx_grid_advanced_filter_or_label: 'or',
+    igx_grid_advanced_filter_addcondition: 'Condition',
+    igx_grid_advanced_filter_group: 'Group',
+    igx_grid_advanced_filter_end_label: 'End',
+    igx_grid_advanced_filter_ungroup: 'Ungroup',
+    igx_grid_advanced_filter_delete: 'Delete',
+    igx_grid_advanced_filter_create: 'Create',
+    igx_grid_advanced_filter_deletefilters: 'Delete filters',
+    igx_grid_advanced_filter_initialtext: 'Start with creating a group of conditions linked with "And" or "Or"'
 };
