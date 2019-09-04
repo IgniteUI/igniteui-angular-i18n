@@ -87,7 +87,6 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_advanced_filter_and_label: 'and',
     igx_grid_advanced_filter_or_label: 'or',
     igx_grid_advanced_filter_add_condition: 'Condition',
-    igx_grid_advanced_filter_end_label: 'End',
     igx_grid_advanced_filter_ungroup: 'Ungroup',
     igx_grid_advanced_filter_delete: 'Delete',
     igx_grid_advanced_filter_delete_filters: 'Delete filters',
