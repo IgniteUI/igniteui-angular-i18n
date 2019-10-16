@@ -78,5 +78,5 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_excel_date_filter: '日付フィルター',
     igx_grid_excel_boolean_filter: 'ブール値フィルター',
     igx_grid_excel_custom_filter: 'カスタム フィルター...',
-    igx_grid_paginator_label: 'Items per page'
+    igx_grid_paginator_label: 'ページごとの項目'
 };
