@@ -77,5 +77,6 @@ export const GridResourceStringsES: IGridResourceStrings = {
   igx_grid_excel_number_filter: 'Filtro numérico',
   igx_grid_excel_date_filter: 'Filtro de fecha',
   igx_grid_excel_boolean_filter: 'Filtro booleano',
-  igx_grid_excel_custom_filter: 'Filtro personalizado...'
+  igx_grid_excel_custom_filter: 'Filtro personalizado...',
+  igx_grid_paginator_label: 'Items per page'
 };
