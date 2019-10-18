@@ -93,4 +93,5 @@ export const GridResourceStringsKO: IGridResourceStrings = {
     igx_grid_advanced_filter_initial_text: 'Start with creating a group of conditions linked with "And" or "Or"',
     igx_grid_advanced_filter_column_placeholder: 'Select column',
     igx_grid_advanced_filter_value_placeholder: 'Value'
+    igx_grid_paginator_label: 'Items per page'
 };
