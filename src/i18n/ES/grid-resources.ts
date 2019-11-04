@@ -71,7 +71,6 @@ export const GridResourceStringsES: IGridResourceStrings = {
   igx_grid_excel_select_all: 'Seleccionar todos',
   igx_grid_excel_blanks: '(En blanco)',
   igx_grid_excel_hide: 'Ocultar Columna',
-  igx_grid_excel_show: 'Show column',
   igx_grid_excel_pin: 'Anclar columna',
   igx_grid_excel_unpin: 'Desanclar columna',
   igx_grid_excel_text_filter: 'Filtro de texto',
