@@ -5,4 +5,4 @@ import { IPaginatorResourceStrings } from 'igniteui-angular';
  */
 export const PaginatorResourceStringsES: IPaginatorResourceStrings = {
     igx_paginator_label: 'Items per page'
-}
+};
