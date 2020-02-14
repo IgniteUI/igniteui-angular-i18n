@@ -71,6 +71,7 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_excel_select_all: 'すべて選択',
     igx_grid_excel_blanks: '(空)',
     igx_grid_excel_hide: '列の非表示',
+    igx_grid_excel_show: '列の表示',
     igx_grid_excel_pin: '列のピン固定',
     igx_grid_excel_unpin: '列のピン固定解除',
     igx_grid_excel_text_filter: 'テキスト フィルター',
