@@ -74,6 +74,7 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_excel_show: '列の表示',
     igx_grid_excel_pin: '列のピン固定',
     igx_grid_excel_unpin: '列のピン固定解除',
+    igx_grid_excel_select: 'Select column',
     igx_grid_excel_text_filter: 'テキスト フィルター',
     igx_grid_excel_number_filter: '数値フィルター',
     igx_grid_excel_date_filter: '日付フィルター',

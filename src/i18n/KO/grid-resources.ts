@@ -74,6 +74,7 @@ export const GridResourceStringsKO: IGridResourceStrings = {
     igx_grid_excel_show: 'Show column',
     igx_grid_excel_pin: 'Pin column',
     igx_grid_excel_unpin: 'Unpin column',
+    igx_grid_excel_select: 'Select column',
     igx_grid_excel_text_filter: 'Text filter',
     igx_grid_excel_number_filter: 'Number filter',
     igx_grid_excel_date_filter: 'Date filter',
