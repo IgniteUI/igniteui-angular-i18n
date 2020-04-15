@@ -1,6 +1,8 @@
 import { GridResourceStringsES } from './grid-resources';
-import { TimePickerResourceStringsES } from './time-picker-resources';
 import { PaginatorResourceStringsES } from './paginator-resources';
+import { TimePickerResourceStringsES } from './time-picker-resources';
+import { RangeDatePickerResourceStringsES } from './range-date-picker-resources';
+import { CarouselResourceStringsES } from './carousel-resources';
 
 /**
  * Spanish resource strings for all components
@@ -8,5 +10,7 @@ import { PaginatorResourceStringsES } from './paginator-resources';
 export const IgxResourceStringsES = {
     ...GridResourceStringsES,
     ...PaginatorResourceStringsES,
-    ...TimePickerResourceStringsES
+    ...TimePickerResourceStringsES,
+    ...RangeDatePickerResourceStringsES,
+    ...CarouselResourceStringsES
 };
