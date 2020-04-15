@@ -7,7 +7,7 @@ import { CarouselResourceStringsJA } from './carousel-resources';
 /**
  * Japanese resource strings for all components
  */
-export const IgxResourceStringsES = {
+export const IgxResourceStringsJA = {
     ...GridResourceStringsJA,
     ...PaginatorResourceStringsJA,
     ...TimePickerResourceStringsJA,
