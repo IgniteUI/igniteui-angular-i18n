@@ -5,5 +5,5 @@ import { IPaginatorResourceStrings } from 'igniteui-angular';
  */
 export const PaginatorResourceStringsJA: IPaginatorResourceStrings = {
     igx_paginator_label: 'ページごとの項目',
-    igx_paginator_pager_text: 'of'
+    igx_paginator_pager_text: '/'
 };
