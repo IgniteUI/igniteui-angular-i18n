@@ -34,14 +34,12 @@
     "@angular/forms": "^9.0.0",
     "@angular/platform-browser": "^9.0.0",
     "@types/node": "^10.14.9",
-    "igniteui-angular": "^9.0.1",
+    "igniteui-angular": "^9.1.0-alpha.11",
     "rxjs": "^6.5.4",
     "tslint": "^5.17.0",
     "typescript": "^3.7.5",
     "web-animations-js": "^2.3.2",
     "zone.js": "^0.10.2"
   },
-  "peerDependencies": {
-    "igniteui-angular": "^9.0.0"
-  }
+  "peerDependencies": {}
 }
