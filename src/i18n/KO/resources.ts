@@ -3,6 +3,7 @@ import { TimePickerResourceStringsKO } from './time-picker-resources';
 import { PaginatorResourceStringsKO } from './paginator-resources';
 import { DateRangePickerResourceStringsKO } from './date-range-picker-resources';
 import { CarouselResourceStringsKO } from './carousel-resources';
+import { ListResourceStringsKO } from './list-resources';
 
 /**
  * Korean resource strings for all components
@@ -12,5 +13,6 @@ export const IgxResourceStringsKO = {
     ...PaginatorResourceStringsKO,
     ...TimePickerResourceStringsKO,
     ...DateRangePickerResourceStringsKO,
-    ...CarouselResourceStringsKO
+    ...CarouselResourceStringsKO,
+    ...ListResourceStringsKO
 };
