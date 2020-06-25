@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/IgniteUI/igniteui-angular-i18n#readme",
   "devDependencies": {
-    "@angular-devkit/schematics": "^9.0.1",
+    "@angular-devkit/schematics": "^10.0.0", 
     "@angular/animations": "^10.0.0",
-    "@angular/cli": "^9.1.7",
+    "@angular/cli": "^10.0.0",
     "@angular/common": "^10.0.0",
     "@angular/compiler": "^10.0.0",
     "@angular/compiler-cli": "^10.0.0",
@@ -37,7 +37,7 @@
     "@types/node": "^10.14.9",
     "igniteui-angular": "^10.0.0",
     "rxjs": "^6.5.5",
-    "tslint": "^5.17.0",
+    "tslint": "~6.1.0",
     "typescript": "^3.9.5",
     "web-animations-js": "^2.3.2",
     "zone.js": "^0.10.3"
