@@ -6,7 +6,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "lint": "tslint 'src/**/*.ts'"
+    "lint": "tslint 'src/**/*.ts'",
+    "lint-dist": "tslint 'dist/**/*.d.ts' -c tslint.dist.json"
   },
   "repository": {
     "type": "git",

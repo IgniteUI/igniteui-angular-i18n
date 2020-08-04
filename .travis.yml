@@ -5,6 +5,8 @@ node_js:
 script:
 - npm run lint
 - npm run build
+# validate dist doesn't contain package imports:
+- npm run lint-dist
 
 before_deploy:
 # copy files
