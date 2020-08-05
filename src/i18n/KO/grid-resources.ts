@@ -1,9 +1,7 @@
 import { IGridResourceStrings } from 'igniteui-angular';
 
-/**
- * Korean resource strings for IgxGrid
- */
-export const GridResourceStringsKO: IGridResourceStrings = {
+// exported below as re-cast to create declaration type with expanded properties
+const GridResourceStringsKO_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_groupByArea_message: 'Drag a column header and drop it here to group by that column.',
     igx_grid_emptyFilteredGrid_message: 'No records found.',
     igx_grid_emptyGrid_message: 'Grid has no data.',
@@ -94,5 +92,12 @@ export const GridResourceStringsKO: IGridResourceStrings = {
     igx_grid_advanced_filter_delete_filters: 'Delete filters',
     igx_grid_advanced_filter_initial_text: 'Start with creating a group of conditions linked with "And" or "Or"',
     igx_grid_advanced_filter_column_placeholder: 'Select column',
-    igx_grid_advanced_filter_value_placeholder: 'Value'
+    igx_grid_advanced_filter_value_placeholder: 'Value',
+    igx_grid_pinned_row_indicator: 'TODO'
 };
+
+
+/**
+ * Korean resource strings for IgxGrid
+ */
+export const GridResourceStringsKO = GridResourceStringsKO_ as ExpandRequire<IGridResourceStrings>;
