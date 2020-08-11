@@ -6,7 +6,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "lint": "tslint 'src/**/*.ts'"
+    "lint": "tslint 'src/**/*.ts'",
+    "lint-dist": "tslint 'dist/**/*.d.ts' -c tslint.dist.json"
   },
   "repository": {
     "type": "git",
@@ -35,7 +36,7 @@
     "@angular/forms": "^10.0.0",
     "@angular/platform-browser": "^10.0.0",
     "@types/node": "^10.14.9",
-    "igniteui-angular": "^10.0.0",
+    "igniteui-angular": "^10.1.0-rc.0",
     "rxjs": "^6.5.5",
     "tslint": "~6.1.0",
     "typescript": "^3.9.5",
