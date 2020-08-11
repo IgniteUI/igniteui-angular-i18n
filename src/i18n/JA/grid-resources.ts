@@ -1,9 +1,7 @@
 import { IGridResourceStrings } from 'igniteui-angular';
 
-/**
- * Japanese resource strings for IgxGrid
- */
-export const GridResourceStringsJA: IGridResourceStrings = {
+// exported below as re-cast to create declaration type with expanded properties
+const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_groupByArea_message: '列ヘッダーをここへドラッグして列をグループ化します。',
     igx_grid_emptyFilteredGrid_message: 'レコードは見つかりませんでした。',
     igx_grid_emptyGrid_message: 'グリッドにデータがありません。',
@@ -94,5 +92,11 @@ export const GridResourceStringsJA: IGridResourceStrings = {
     igx_grid_advanced_filter_delete_filters: 'フィルターの削除',
     igx_grid_advanced_filter_initial_text: '"And" あるいは "Or" にリンクされた条件のグループの作成から始めます。',
     igx_grid_advanced_filter_column_placeholder: '列の選択',
-    igx_grid_advanced_filter_value_placeholder: '値'
+    igx_grid_advanced_filter_value_placeholder: '値',
+    igx_grid_pinned_row_indicator: '固定済み'
 };
+
+/**
+ * Japanese resource strings for IgxGrid
+ */
+export const GridResourceStringsJA = GridResourceStringsJA_ as ExpandRequire<IGridResourceStrings>;
