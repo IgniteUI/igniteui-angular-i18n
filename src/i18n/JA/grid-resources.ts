@@ -93,12 +93,12 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_advanced_filter_initial_text: '"And" あるいは "Or" にリンクされた条件のグループの作成から始めます。',
     igx_grid_advanced_filter_column_placeholder: '列の選択',
     igx_grid_advanced_filter_value_placeholder: '値',
-    igx_grid_pinned_row_indicator: '固定',
-    igx_grid_hiding_check_all_label: 'Hide All',
-    igx_grid_hiding_uncheck_all_label: 'Show All',
-    igx_grid_pinning_check_all_label: 'Pin All',
-    igx_grid_pinning_uncheck_all_label: 'Unpin All',
-    igx_grid_toolbar_actions_filter_prompt: 'Filter columns list ...'
+    igx_grid_pinned_row_indicator: '固定済み',
+    igx_grid_hiding_check_all_label: 'すべて非表示',
+    igx_grid_hiding_uncheck_all_label: 'すべて表示',
+    igx_grid_pinning_check_all_label: 'すべて固定',
+    igx_grid_pinning_uncheck_all_label: 'すべて固定解除',
+    igx_grid_toolbar_actions_filter_prompt: '列リストのフィルター'
 };
 
 /**
