@@ -93,7 +93,7 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_advanced_filter_initial_text: '"And" あるいは "Or" にリンクされた条件のグループの作成から始めます。',
     igx_grid_advanced_filter_column_placeholder: '列の選択',
     igx_grid_advanced_filter_value_placeholder: '値',
-    igx_grid_pinned_row_indicator: '固定'
+    igx_grid_pinned_row_indicator: '固定済み'
 };
 
 /**
