@@ -4,10 +4,10 @@ import { IPaginatorResourceStrings } from 'igniteui-angular';
 const PaginatorResourceStringsJA_: ExpandRequire<IPaginatorResourceStrings> = {
     igx_paginator_label: 'ページごとの項目',
     igx_paginator_pager_text: '/',
-    igx_paginator_first_page_button_text: 'Go to first page',
-    igx_paginator_previous_page_button_text: 'Previous page',
-    igx_paginator_last_page_button_text: 'Go to last page',
-    igx_paginator_next_page_button_text: 'Next page'
+    igx_paginator_first_page_button_text: '最初のページに移動',
+    igx_paginator_previous_page_button_text: '前のページ',
+    igx_paginator_last_page_button_text: '最後のページに移動',
+    igx_paginator_next_page_button_text: '次のページ'
 };
 
 /**
