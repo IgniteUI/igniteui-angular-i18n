@@ -98,7 +98,17 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_hiding_uncheck_all_label: 'すべて表示',
     igx_grid_pinning_check_all_label: 'すべて固定',
     igx_grid_pinning_uncheck_all_label: 'すべて固定解除',
-    igx_grid_toolbar_actions_filter_prompt: '列リストのフィルター'
+    igx_grid_toolbar_actions_filter_prompt: '列リストのフィルター',
+    igx_grid_snackbar_addrow_label: 'Row added',
+    igx_grid_snackbar_addrow_actiontext: 'SHOW',
+    igx_grid_actions_edit_label: 'Edit',
+    igx_grid_actions_add_label: 'Add',
+    igx_grid_actions_add_child_label: 'Add Child',
+    igx_grid_actions_delete_label: 'Delete',
+    igx_grid_actions_pin_label: 'Pin',
+    igx_grid_actions_unpin_label: 'Unpin',
+    igx_grid_actions_jumpUp_label: 'Jump up',
+    igx_grid_actions_jumpDown_label: 'Jump down'
 };
 
 /**
