@@ -67,6 +67,8 @@ const GridResourceStringsKO_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_apply: 'apply',
     igx_grid_excel_search_placeholder: 'Search',
     igx_grid_excel_select_all: 'Select All',
+    igx_grid_excel_select_all_search_results: 'Select all search results',
+    igx_grid_excel_add_to_filter: 'Add current selection to filter',
     igx_grid_excel_blanks: '(Blanks)',
     igx_grid_excel_hide: 'Hide column',
     igx_grid_excel_show: 'Show column',
