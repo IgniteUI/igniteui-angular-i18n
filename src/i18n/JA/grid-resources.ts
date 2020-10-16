@@ -67,6 +67,8 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_apply: '適用',
     igx_grid_excel_search_placeholder: '検索',
     igx_grid_excel_select_all: 'すべて選択',
+    igx_grid_excel_select_all_search_results: 'すべての検索結果を選択',
+    igx_grid_excel_add_to_filter: '現在の選択をフィルターに追加',
     igx_grid_excel_blanks: '(空)',
     igx_grid_excel_hide: '列の非表示',
     igx_grid_excel_show: '列の表示',
@@ -98,7 +100,18 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_hiding_uncheck_all_label: 'すべて表示',
     igx_grid_pinning_check_all_label: 'すべて固定',
     igx_grid_pinning_uncheck_all_label: 'すべて固定解除',
-    igx_grid_toolbar_actions_filter_prompt: '列リストのフィルター'
+    igx_grid_toolbar_actions_filter_prompt: '列リストのフィルター',
+    igx_grid_snackbar_addrow_label: '行が追加されました',
+    igx_grid_snackbar_addrow_actiontext: '表示',
+    igx_grid_actions_edit_label: '編集',
+    igx_grid_actions_add_label: '追加',
+    igx_grid_add_row_label: '行の追加',
+    igx_grid_actions_add_child_label: '子の追加',
+    igx_grid_actions_delete_label: '削除',
+    igx_grid_actions_pin_label: '固定',
+    igx_grid_actions_unpin_label: '固定解除',
+    igx_grid_actions_jumpUp_label: '上へ移動',
+    igx_grid_actions_jumpDown_label: '下へ移動'
 };
 
 /**
