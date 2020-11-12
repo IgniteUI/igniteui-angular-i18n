@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/IgniteUI/igniteui-angular-i18n#readme",
   "devDependencies": {
-    "@angular-devkit/schematics": "^10.0.5",
+    "@angular-devkit/schematics": "^11.0.0",
     "@angular/animations": "^11.0.0",
-    "@angular/cli": "^10.0.5",
+    "@angular/cli": "^11.0.0",
     "@angular/common": "^11.0.0",
     "@angular/compiler": "^11.0.0",
     "@angular/compiler-cli": "^11.0.0",
