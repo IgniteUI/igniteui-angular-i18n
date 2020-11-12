@@ -111,6 +111,8 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_toolbar_exporter_button_label: 'Export',
     igx_grid_toolbar_exporter_excel_entry_text: 'Export to Excel',
     igx_grid_toolbar_exporter_csv_entry_text: 'Export to CSV',
+    igx_grid_groupByArea_select_message: 'Select all rows in the group with field name {0} and value {1}.',
+    igx_grid_groupByArea_deselect_message: 'Deselect all rows in the group with field name {0} and value {1}.',
     igx_grid_snackbar_addrow_label: '行が追加されました',
     igx_grid_snackbar_addrow_actiontext: '表示',
     igx_grid_actions_edit_label: '編集',
