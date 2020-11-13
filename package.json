@@ -36,7 +36,7 @@
     "@angular/forms": "^11.0.0",
     "@angular/platform-browser": "^11.0.0",
     "@types/node": "^10.14.9",
-    "igniteui-angular": "^11.0.0-rc.0",
+    "igniteui-angular": "^11.0.0",
     "rxjs": "^6.6.3",
     "tslint": "~6.1.0",
     "typescript": "^4.0.5",
