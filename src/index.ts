@@ -58,4 +58,12 @@ export * from './i18n/DE/date-range-picker-resources';
 export * from './i18n/DE/carousel-resources';
 export * from './i18n/DE/list-resources';
 export * from './i18n/DE/resources';
-
+// French
+export * from './i18n/FR/calendar-resources';
+export * from './i18n/FR/grid-resources';
+export * from './i18n/FR/paginator-resources';
+export * from './i18n/FR/time-picker-resources';
+export * from './i18n/FR/date-range-picker-resources';
+export * from './i18n/FR/carousel-resources';
+export * from './i18n/FR/list-resources';
+export * from './i18n/FR/resources';
