@@ -15,7 +15,7 @@ const CalendarResourceStringsJA_: ExpandRequire<ICalendarResourceStrings> = {
     igx_calendar_single_selection: 'Calendar with {0} date pickers',
     igx_calendar_singular_multi_selection: 'Multi selection calendar',
     igx_calendar_singular_range_selection: 'Range selection calendar',
-    igx_calendar_singular_single_selection: 'Calendar',
+    igx_calendar_singular_single_selection: 'Calendar'
 };
 
 /**
