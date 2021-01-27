@@ -25,6 +25,7 @@ export * from './i18n/ES/date-range-picker-resources';
 export * from './i18n/ES/carousel-resources';
 export * from './i18n/ES/list-resources';
 export * from './i18n/ES/resources';
+// German
 export * from './i18n/DE/calendar-resources';
 export * from './i18n/DE/grid-resources';
 export * from './i18n/DE/paginator-resources';
@@ -33,3 +34,9 @@ export * from './i18n/DE/date-range-picker-resources';
 export * from './i18n/DE/carousel-resources';
 export * from './i18n/DE/list-resources';
 export * from './i18n/DE/resources';
+// Italian
+export * from './i18n/IT/calendar-resources';
+// Chinese (Taiwan) zh-tw
+export * from './i18n/ZH-TW/calendar-resources';
+// Chinese (PRC) zh-cn
+export * from './i18n/ZH-CN/calendar-resources';
