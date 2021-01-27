@@ -2,20 +2,20 @@ import { ICalendarResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
 const CalendarResourceStringsFR_: ExpandRequire<ICalendarResourceStrings> = {
-    igx_calendar_previous_month: 'Previous Month',
-    igx_calendar_next_month: 'Next Month',
-    igx_calendar_select_month: 'Select Month',
-    igx_calendar_select_year: 'Select Year',
-    igx_calendar_range_start: 'Range start',
-    igx_calendar_range_end: 'Range end',
-    igx_calendar_selected_month_is: 'Selected month is ',
-    igx_calendar_first_picker_of: 'First picker of {0} starts from',
-    igx_calendar_multi_selection: 'Multi selection calendar with {0} date pickers',
-    igx_calendar_range_selection: 'Range selection calendar with {0} date pickers',
-    igx_calendar_single_selection: 'Calendar with {0} date pickers',
-    igx_calendar_singular_multi_selection: 'Multi selection calendar',
-    igx_calendar_singular_range_selection: 'Range selection calendar',
-    igx_calendar_singular_single_selection: 'Calendar',
+    igx_calendar_previous_month: 'Le mois dernier',
+    igx_calendar_next_month: 'Le mois prochain',
+    igx_calendar_select_month: 'Sélectionner un mois',
+    igx_calendar_select_year: 'Sélectionner une année',
+    igx_calendar_range_start: 'Début de l\'intervalle',
+    igx_calendar_range_end: 'Fin de l\'intervalle',
+    igx_calendar_selected_month_is: 'Le mois sélectionné est ',
+    igx_calendar_first_picker_of: 'Le premier sélecteur de {0} commence à partir de',
+    igx_calendar_multi_selection: 'Calendrier à sélection multiple avec {0} sélecteurs de dates',
+    igx_calendar_range_selection: 'Calendrier de sélection de la période avec {0} sélecteurs de dates',
+    igx_calendar_single_selection: 'Calendrier avec {0} sélecteurs de dates',
+    igx_calendar_singular_multi_selection: 'Calendrier multi-sélection',
+    igx_calendar_singular_range_selection: 'Calendrier de sélection de la période de date',
+    igx_calendar_singular_single_selection: 'Calendrier',
 };
 
 /**
