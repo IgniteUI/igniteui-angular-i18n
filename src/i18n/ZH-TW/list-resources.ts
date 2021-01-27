@@ -2,8 +2,8 @@ import { IListResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
 const ListResourceStringsZHTW_: ExpandRequire<IListResourceStrings> = {
-    igx_list_no_items: 'There are no items in the list.',
-    igx_list_loading: 'Loading data from the server...'
+    igx_list_no_items: '清單中沒有任何項目。',
+    igx_list_loading: '正在從伺服器載入資料...'
 };
 
 /**
