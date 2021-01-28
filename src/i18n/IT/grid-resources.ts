@@ -2,7 +2,7 @@ import { IGridResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
 const GridResourceStringsIT_: ExpandRequire<IGridResourceStrings> = {
-  igx_grid_groupByArea_message: "Trascinare un'intestazione di colonna e rilasciarla qui per raggruppare in base a quella colonna.",
+  igx_grid_groupByArea_message: 'Trascinare un\'intestazione di colonna e rilasciarla qui per raggruppare in base a quella colonna.',
   igx_grid_emptyFilteredGrid_message: 'Nessun record trovato.',
   igx_grid_emptyGrid_message: 'La griglia non ha dati.',
   igx_grid_filter: 'Filtro',
@@ -31,8 +31,8 @@ const GridResourceStringsIT_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_filter_thisMonth: 'Questo mese',
   igx_grid_filter_lastMonth: 'Ultimo mese',
   igx_grid_filter_nextMonth: 'Prossimo mese',
-  igx_grid_filter_thisYear: "Quest'anno",
-  igx_grid_filter_lastYear: "L'anno scorso",
+  igx_grid_filter_thisYear: 'Quest\'anno',
+  igx_grid_filter_lastYear: 'L\'anno scorso',
   igx_grid_filter_nextYear: 'Prossimo anno',
   igx_grid_filter_greaterThan: 'Maggiore di',
   igx_grid_filter_lessThan: 'Minore di',
