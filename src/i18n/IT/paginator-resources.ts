@@ -6,7 +6,7 @@ const PaginatorResourceStringsIT_: ExpandRequire<IPaginatorResourceStrings> = {
     igx_paginator_pager_text: 'di',
     igx_paginator_first_page_button_text: 'Vai alla prima pagina',
     igx_paginator_previous_page_button_text: 'Pagina precedente',
-    igx_paginator_last_page_button_text: "Vai all'ultima pagina",
+    igx_paginator_last_page_button_text: 'Vai all\'ultima pagina',
     igx_paginator_next_page_button_text: 'Pagina successiva'
 };
 
