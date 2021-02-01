@@ -1,7 +1,7 @@
 import { IPaginatorResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
-const PaginatorResourceStringsZHTW_: ExpandRequire<IPaginatorResourceStrings> = {
+const PaginatorResourceStringsZHHANT_: ExpandRequire<IPaginatorResourceStrings> = {
     igx_paginator_label: '每頁項目',
     igx_paginator_pager_text: '/',
     igx_paginator_first_page_button_text: '前往首頁',
@@ -11,6 +11,6 @@ const PaginatorResourceStringsZHTW_: ExpandRequire<IPaginatorResourceStrings> = 
 };
 
 /**
- * Chinese (Taiwan) zh-tw resource strings for IgxPaginator
+ * Traditional Chinese (zh-Hant) resource strings for IgxPaginator
  */
-export const PaginatorResourceStringsZHTW = PaginatorResourceStringsZHTW_ as ExpandRequire<IPaginatorResourceStrings>;
+export const PaginatorResourceStringsZHHANT = PaginatorResourceStringsZHHANT_ as ExpandRequire<IPaginatorResourceStrings>;
