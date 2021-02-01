@@ -1,7 +1,7 @@
 import { IGridResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
-const GridResourceStringsZHCN_: ExpandRequire<IGridResourceStrings> = {
+const GridResourceStringsZHHANS_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_groupByArea_message: '将列标题拖放到此处以按该列分组。',
   igx_grid_emptyFilteredGrid_message: '未找到任何记录。',
   igx_grid_emptyGrid_message: '网格无数据。',
@@ -127,6 +127,6 @@ const GridResourceStringsZHCN_: ExpandRequire<IGridResourceStrings> = {
 };
 
 /**
- * Chinese (PRC) zh-cn resource strings for IgxGrid
+ * Simplified Chinese (zh-Hans) resource strings for IgxGrid
  */
-export const GridResourceStringsZHCN = GridResourceStringsZHCN_ as ExpandRequire<IGridResourceStrings>;
+export const GridResourceStringsZHHANS = GridResourceStringsZHHANS_ as ExpandRequire<IGridResourceStrings>;
