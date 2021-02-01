@@ -25,6 +25,33 @@ export * from './i18n/ES/date-range-picker-resources';
 export * from './i18n/ES/carousel-resources';
 export * from './i18n/ES/list-resources';
 export * from './i18n/ES/resources';
+// Italian
+export * from './i18n/IT/calendar-resources';
+export * from './i18n/IT/grid-resources';
+export * from './i18n/IT/paginator-resources';
+export * from './i18n/IT/time-picker-resources';
+export * from './i18n/IT/date-range-picker-resources';
+export * from './i18n/IT/carousel-resources';
+export * from './i18n/IT/list-resources';
+export * from './i18n/IT/resources';
+// Chinese (Taiwan) zh-tw
+export * from './i18n/ZH-TW/calendar-resources';
+export * from './i18n/ZH-TW/grid-resources';
+export * from './i18n/ZH-TW/paginator-resources';
+export * from './i18n/ZH-TW/time-picker-resources';
+export * from './i18n/ZH-TW/date-range-picker-resources';
+export * from './i18n/ZH-TW/carousel-resources';
+export * from './i18n/ZH-TW/list-resources';
+export * from './i18n/ZH-TW/resources';
+// Chinese (PRC) zh-cn
+export * from './i18n/ZH-CN/calendar-resources';
+export * from './i18n/ZH-CN/grid-resources';
+export * from './i18n/ZH-CN/paginator-resources';
+export * from './i18n/ZH-CN/time-picker-resources';
+export * from './i18n/ZH-CN/date-range-picker-resources';
+export * from './i18n/ZH-CN/carousel-resources';
+export * from './i18n/ZH-CN/list-resources';
+export * from './i18n/ZH-CN/resources';
 // German
 export * from './i18n/DE/calendar-resources';
 export * from './i18n/DE/grid-resources';
@@ -34,9 +61,3 @@ export * from './i18n/DE/date-range-picker-resources';
 export * from './i18n/DE/carousel-resources';
 export * from './i18n/DE/list-resources';
 export * from './i18n/DE/resources';
-// Italian
-export * from './i18n/IT/calendar-resources';
-// Chinese (Taiwan) zh-tw
-export * from './i18n/ZH-TW/calendar-resources';
-// Chinese (PRC) zh-cn
-export * from './i18n/ZH-CN/calendar-resources';
