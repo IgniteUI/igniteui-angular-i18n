@@ -1,7 +1,7 @@
 import { ICalendarResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
-const CalendarResourceStringsZHCN_: ExpandRequire<ICalendarResourceStrings> = {
+const CalendarResourceStringsZHHANS_: ExpandRequire<ICalendarResourceStrings> = {
     igx_calendar_previous_month: '上个月',
     igx_calendar_next_month: '下个月',
     igx_calendar_select_month: '选择月',
@@ -19,6 +19,6 @@ const CalendarResourceStringsZHCN_: ExpandRequire<ICalendarResourceStrings> = {
 };
 
 /**
- * Chinese (PRC) zh-cn resource strings for IgxCalendar
+ * Simplified Chinese (zh-Hans) resource strings for IgxCalendar
  */
-export const CalendarResourceStringsZHCN = CalendarResourceStringsZHCN_ as ExpandRequire<ICalendarResourceStrings>;
+export const CalendarResourceStringsZHHANS = CalendarResourceStringsZHHANS_ as ExpandRequire<ICalendarResourceStrings>;
