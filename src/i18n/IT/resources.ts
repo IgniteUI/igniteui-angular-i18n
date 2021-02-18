@@ -1,3 +1,4 @@
+import { CalendarResourceStringsIT } from './calendar-resources';
 import { GridResourceStringsIT} from './grid-resources';
 import { PaginatorResourceStringsIT} from './paginator-resources';
 import { TimePickerResourceStringsIT} from './time-picker-resources';
@@ -9,6 +10,7 @@ import { ListResourceStringsIT} from './list-resources';
  * Italian resource strings for all components
  */
 export const IgxResourceStringsIT = {
+    ...CalendarResourceStringsIT,
     ...GridResourceStringsIT,
     ...PaginatorResourceStringsIT,
     ...TimePickerResourceStringsIT,

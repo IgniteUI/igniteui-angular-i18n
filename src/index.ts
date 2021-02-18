@@ -26,6 +26,7 @@ export * from './i18n/ES/carousel-resources';
 export * from './i18n/ES/list-resources';
 export * from './i18n/ES/resources';
 // Italian
+export * from './i18n/IT/calendar-resources';
 export * from './i18n/IT/grid-resources';
 export * from './i18n/IT/paginator-resources';
 export * from './i18n/IT/time-picker-resources';
@@ -34,6 +35,7 @@ export * from './i18n/IT/carousel-resources';
 export * from './i18n/IT/list-resources';
 export * from './i18n/IT/resources';
 // Traditional Chinese (zh-Hant)
+export * from './i18n/ZH-HANT/calendar-resources';
 export * from './i18n/ZH-HANT/grid-resources';
 export * from './i18n/ZH-HANT/paginator-resources';
 export * from './i18n/ZH-HANT/time-picker-resources';
@@ -42,6 +44,7 @@ export * from './i18n/ZH-HANT/carousel-resources';
 export * from './i18n/ZH-HANT/list-resources';
 export * from './i18n/ZH-HANT/resources';
 // Simplified Chinese (zh-Hans)
+export * from './i18n/ZH-HANS/calendar-resources';
 export * from './i18n/ZH-HANS/grid-resources';
 export * from './i18n/ZH-HANS/paginator-resources';
 export * from './i18n/ZH-HANS/time-picker-resources';

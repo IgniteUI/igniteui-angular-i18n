@@ -1,3 +1,4 @@
+import { CalendarResourceStringsZHHANT } from './calendar-resources';
 import { GridResourceStringsZHHANT} from './grid-resources';
 import { PaginatorResourceStringsZHHANT} from './paginator-resources';
 import { TimePickerResourceStringsZHHANT} from './time-picker-resources';
@@ -9,6 +10,7 @@ import { ListResourceStringsZHHANT} from './list-resources';
  * Traditional Chinese (zh-Hant) resource strings for all components
  */
 export const IgxResourceStringsZHHANT = {
+    ...CalendarResourceStringsZHHANT,
     ...GridResourceStringsZHHANT,
     ...PaginatorResourceStringsZHHANT,
     ...TimePickerResourceStringsZHHANT,
