@@ -79,6 +79,7 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_number_filter: '数値フィルター',
     igx_grid_excel_date_filter: '日付フィルター',
     igx_grid_excel_boolean_filter: 'ブール値フィルター',
+    igx_grid_excel_currency_filter: 'Currency filter',
     igx_grid_excel_custom_filter: 'カスタム フィルター...',
     igx_grid_advanced_filter_title: '高度なフィルター',
     igx_grid_advanced_filter_and_group: '"And" グループ',
