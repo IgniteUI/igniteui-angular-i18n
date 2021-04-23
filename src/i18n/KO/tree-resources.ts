@@ -2,8 +2,8 @@ import { ITreeResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
 const TreeResourceStringsKO_: ExpandRequire<ITreeResourceStrings> = {
-    igx_expand: 'Expand',
-    igx_collapse: 'Collapse'
+    igx_expand: '확장',
+    igx_collapse: '축소'
 };
 
 /**
