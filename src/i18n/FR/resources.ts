@@ -1,6 +1,7 @@
 import { GridResourceStringsFR } from './grid-resources';
 import { PaginatorResourceStringsFR } from './paginator-resources';
 import { TimePickerResourceStringsFR } from './time-picker-resources';
+import { DatePickerResourceStringsFR } from './date-picker-resources';
 import { DateRangePickerResourceStringsFR } from './date-range-picker-resources';
 import { CarouselResourceStringsFR } from './carousel-resources';
 import { ListResourceStringsFR } from './list-resources';
@@ -13,6 +14,7 @@ export const IgxResourceStringsFR = {
     ...GridResourceStringsFR,
     ...PaginatorResourceStringsFR,
     ...TimePickerResourceStringsFR,
+    ...DatePickerResourceStringsFR,
     ...DateRangePickerResourceStringsFR,
     ...CarouselResourceStringsFR,
     ...ListResourceStringsFR,
