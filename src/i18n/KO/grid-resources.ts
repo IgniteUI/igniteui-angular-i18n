@@ -11,7 +11,7 @@ const GridResourceStringsKO_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_filter_row_placeholder: '필터 값 추가',
     igx_grid_filter_row_boolean_placeholder: '모두',
     igx_grid_filter_row_date_placeholder: '픽업 날짜',
-    igx_grid_filter_row_time_placeholder: 'Pick up time',
+    igx_grid_filter_row_time_placeholder: '인도 시간',
     igx_grid_filter_operator_and: '그리고',
     igx_grid_filter_operator_or: '또는',
     igx_grid_complex_filter: '복잡한 필터',

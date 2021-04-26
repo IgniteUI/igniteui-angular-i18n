@@ -4,8 +4,8 @@ import { ITimePickerResourceStrings } from 'igniteui-angular';
 const TimePickerResourceStringsZHHANS_: ExpandRequire<ITimePickerResourceStrings> = {
     igx_time_picker_ok: '确定',
     igx_time_picker_cancel: '取消',
-    igx_time_picker_change_time: 'Change Time',
-    igx_time_picker_choose_time: 'Choose Time'
+    igx_time_picker_change_time: '更改时间',
+    igx_time_picker_choose_time: '选择时间'
 };
 
 

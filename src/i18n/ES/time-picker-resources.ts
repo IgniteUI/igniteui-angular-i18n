@@ -4,8 +4,8 @@ import { ITimePickerResourceStrings } from 'igniteui-angular';
 const TimePickerResourceStringsES_: ExpandRequire<ITimePickerResourceStrings> = {
     igx_time_picker_ok: 'Aceptar',
     igx_time_picker_cancel: 'Cancelar',
-    igx_time_picker_change_time: 'Change Time',
-    igx_time_picker_choose_time: 'Choose Time'
+    igx_time_picker_change_time: 'Cambiar hora',
+    igx_time_picker_choose_time: 'Elige hora'
 };
 
 /**
