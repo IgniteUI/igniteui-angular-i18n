@@ -6,6 +6,8 @@ import { DatePickerResourceStringsZHHANT } from './date-picker-resources';
 import { DateRangePickerResourceStringsZHHANT } from './date-range-picker-resources';
 import { CarouselResourceStringsZHHANT } from './carousel-resources';
 import { ListResourceStringsZHHANT } from './list-resources';
+import { TreeResourceStringsZHHANT } from './tree-resources';
+
 
 /**
  * Traditional Chinese (zh-Hant) resource strings for all components
@@ -18,5 +20,6 @@ export const IgxResourceStringsZHHANT = {
     ...DatePickerResourceStringsZHHANT,
     ...DateRangePickerResourceStringsZHHANT,
     ...CarouselResourceStringsZHHANT,
-    ...ListResourceStringsZHHANT
+    ...ListResourceStringsZHHANT,
+    ...TreeResourceStringsZHHANT
 };

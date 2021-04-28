@@ -6,6 +6,7 @@ import { DatePickerResourceStringsIT } from './date-picker-resources';
 import { DateRangePickerResourceStringsIT } from './date-range-picker-resources';
 import { CarouselResourceStringsIT } from './carousel-resources';
 import { ListResourceStringsIT } from './list-resources';
+import { TreeResourceStringsIT } from './tree-resources';
 
 /**
  * Italian resource strings for all components
@@ -18,5 +19,6 @@ export const IgxResourceStringsIT = {
     ...DatePickerResourceStringsIT,
     ...DateRangePickerResourceStringsIT,
     ...CarouselResourceStringsIT,
-    ...ListResourceStringsIT
+    ...ListResourceStringsIT,
+    ...TreeResourceStringsIT
 };
