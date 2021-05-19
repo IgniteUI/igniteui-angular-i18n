@@ -6,7 +6,7 @@ const GridResourceStringsBG_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_groupByArea_select_message: 'Избери всички редове в групата с име на поле {0} и стойност {1}.',
     igx_grid_groupByArea_deselect_message: 'Отмаркирай всички редове в групата с име на поле {0} и стойност {1}.',
     igx_grid_emptyFilteredGrid_message: 'Няма открити записи.',
-    igx_grid_emptyGrid_message: 'Мрежата няма данни.',
+    igx_grid_emptyGrid_message: 'Таблица няма данни.',
     igx_grid_filter: 'Филтър',
     igx_grid_filter_row_close: 'Затвори',
     igx_grid_filter_row_reset: 'Нулирай',
