@@ -54,8 +54,8 @@ const GridResourceStringsBG_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_summary_max: 'Максимално',
     igx_grid_summary_sum: 'Сума',
     igx_grid_summary_average: 'Средно',
-    igx_grid_summary_earliest: 'Най-стара', // ???
-    igx_grid_summary_latest: 'Най-нова', // ???
+    igx_grid_summary_earliest: 'Най-стара',
+    igx_grid_summary_latest: 'Най-нова',
     igx_grid_excel_filter_moving_left: 'Премести наляво',
     igx_grid_excel_filter_moving_left_short: 'Ляво',
     igx_grid_excel_filter_moving_right: 'Премести надясно',
@@ -94,8 +94,8 @@ const GridResourceStringsBG_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_advanced_filter_end_group: 'Край на групирането',
     igx_grid_advanced_filter_create_and_group: 'Създай "And" група',
     igx_grid_advanced_filter_create_or_group: 'Създай "Or" група',
-    igx_grid_advanced_filter_and_label: 'and', // ???
-    igx_grid_advanced_filter_or_label: 'or', // ???
+    igx_grid_advanced_filter_and_label: 'and',
+    igx_grid_advanced_filter_or_label: 'or',
     igx_grid_advanced_filter_add_condition: 'Условие',
     igx_grid_advanced_filter_ungroup: 'Разгрупирай',
     igx_grid_advanced_filter_delete: 'Изтрий',
@@ -128,8 +128,8 @@ const GridResourceStringsBG_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_actions_delete_label: 'Изтрий',
     igx_grid_actions_pin_label: 'Закачи',
     igx_grid_actions_unpin_label: 'Откачи',
-    igx_grid_actions_jumpUp_label: 'Придвижи се нагоре', // ???
-    igx_grid_actions_jumpDown_label: 'Придвижи се надолу' // ???
+    igx_grid_actions_jumpUp_label: 'Придвижи се нагоре',
+    igx_grid_actions_jumpDown_label: 'Придвижи се надолу'
 };
 
 /**
