@@ -93,3 +93,15 @@ export * from './i18n/FR/carousel-resources';
 export * from './i18n/FR/list-resources';
 export * from './i18n/FR/tree-resources';
 export * from './i18n/FR/resources';
+
+// Bulgarian
+export * from './i18n/BG/calendar-resources';
+export * from './i18n/BG/grid-resources';
+export * from './i18n/BG/paginator-resources';
+export * from './i18n/BG/time-picker-resources';
+export * from './i18n/BG/date-picker-resources';
+export * from './i18n/BG/date-range-picker-resources';
+export * from './i18n/BG/carousel-resources';
+export * from './i18n/BG/list-resources';
+export * from './i18n/BG/tree-resources';
+export * from './i18n/BG/resources';
