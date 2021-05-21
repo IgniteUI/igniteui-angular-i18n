@@ -46,4 +46,11 @@ export * from './i18n/ZH-HANS/date-range-picker-resources';
 export * from './i18n/ZH-HANS/carousel-resources';
 export * from './i18n/ZH-HANS/list-resources';
 export * from './i18n/ZH-HANS/resources';
-
+// Bulgarian
+export * from './i18n/BG/grid-resources';
+export * from './i18n/BG/paginator-resources';
+export * from './i18n/BG/time-picker-resources';
+export * from './i18n/BG/date-range-picker-resources';
+export * from './i18n/BG/carousel-resources';
+export * from './i18n/BG/list-resources';
+export * from './i18n/BG/resources';
