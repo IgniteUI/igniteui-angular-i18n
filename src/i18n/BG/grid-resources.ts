@@ -4,7 +4,7 @@ import { IGridResourceStrings } from 'igniteui-angular';
 const GridResourceStringsBG_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_groupByArea_message: 'Плъзнете заглавката на колоната и я пуснете тук, за да извършите групиране по тази колона.',
     igx_grid_emptyFilteredGrid_message: 'Няма открити записи.',
-    igx_grid_emptyGrid_message: 'Таблица няма данни.',
+    igx_grid_emptyGrid_message: 'Таблицата не съдържа данни.',
     igx_grid_filter: 'Филтър',
     igx_grid_filter_row_close: 'Затвори',
     igx_grid_filter_row_reset: 'Нулирай',
@@ -71,7 +71,7 @@ const GridResourceStringsBG_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_add_to_filter: 'Добави на текущата селекция към филтъра',
     igx_grid_excel_blanks: '(Празни)',
     igx_grid_excel_hide: 'Скрий колоната',
-    igx_grid_excel_show: 'Покажи колона',
+    igx_grid_excel_show: 'Покажи колоната',
     igx_grid_excel_pin: 'Закачи колоната',
     igx_grid_excel_unpin: 'Откачи колоната',
     igx_grid_excel_select: 'Избери колоната',
