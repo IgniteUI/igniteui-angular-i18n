@@ -7,6 +7,6 @@ const TreeResourceStringsZHHANT_: ExpandRequire<ITreeResourceStrings> = {
 };
 
 /**
- * German resource strings for IgxCalendar
+ * Traditional Chinese (zh-Hant) resource strings for IgxTree
  */
 export const TreeResourceStringsZHHANT = TreeResourceStringsZHHANT_ as ExpandRequire<ITreeResourceStrings>;

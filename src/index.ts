@@ -9,8 +9,7 @@ export * from './i18n/JA/carousel-resources';
 export * from './i18n/JA/list-resources';
 export * from './i18n/JA/tree-resources';
 export * from './i18n/JA/resources';
-
-// Korean
+// Korean (KO)
 export * from './i18n/KO/calendar-resources';
 export * from './i18n/KO/grid-resources';
 export * from './i18n/KO/paginator-resources';
@@ -105,79 +104,97 @@ export * from './i18n/CS/calendar-resources';
 export * from './i18n/CS/grid-resources';
 export * from './i18n/CS/paginator-resources';
 export * from './i18n/CS/time-picker-resources';
+export * from './i18n/CS/date-picker-resources';
 export * from './i18n/CS/date-range-picker-resources';
 export * from './i18n/CS/carousel-resources';
 export * from './i18n/CS/list-resources';
+export * from './i18n/CS/tree-resources';
 export * from './i18n/CS/resources';
 // Danish (DA)
 export * from './i18n/DA/calendar-resources';
 export * from './i18n/DA/grid-resources';
 export * from './i18n/DA/paginator-resources';
 export * from './i18n/DA/time-picker-resources';
+export * from './i18n/DA/date-picker-resources';
 export * from './i18n/DA/date-range-picker-resources';
 export * from './i18n/DA/carousel-resources';
 export * from './i18n/DA/list-resources';
+export * from './i18n/DA/tree-resources';
 export * from './i18n/DA/resources';
 // Dutch (NL)
 export * from './i18n/NL/calendar-resources';
 export * from './i18n/NL/grid-resources';
 export * from './i18n/NL/paginator-resources';
 export * from './i18n/NL/time-picker-resources';
+export * from './i18n/NL/date-picker-resources';
 export * from './i18n/NL/date-range-picker-resources';
 export * from './i18n/NL/carousel-resources';
 export * from './i18n/NL/list-resources';
+export * from './i18n/NL/tree-resources';
 export * from './i18n/NL/resources';
 // Hungarian (HU)
 export * from './i18n/HU/calendar-resources';
 export * from './i18n/HU/grid-resources';
 export * from './i18n/HU/paginator-resources';
 export * from './i18n/HU/time-picker-resources';
+export * from './i18n/HU/date-picker-resources';
 export * from './i18n/HU/date-range-picker-resources';
 export * from './i18n/HU/carousel-resources';
 export * from './i18n/HU/list-resources';
+export * from './i18n/HU/tree-resources';
 export * from './i18n/HU/resources';
 // Polish (PL)
 export * from './i18n/PL/calendar-resources';
 export * from './i18n/PL/grid-resources';
 export * from './i18n/PL/paginator-resources';
 export * from './i18n/PL/time-picker-resources';
+export * from './i18n/PL/date-picker-resources';
 export * from './i18n/PL/date-range-picker-resources';
 export * from './i18n/PL/carousel-resources';
 export * from './i18n/PL/list-resources';
+export * from './i18n/PL/tree-resources';
 export * from './i18n/PL/resources';
 // Portuguese (PT)
 export * from './i18n/PT/calendar-resources';
 export * from './i18n/PT/grid-resources';
 export * from './i18n/PT/paginator-resources';
 export * from './i18n/PT/time-picker-resources';
+export * from './i18n/PT/date-picker-resources';
 export * from './i18n/PT/date-range-picker-resources';
 export * from './i18n/PT/carousel-resources';
 export * from './i18n/PT/list-resources';
+export * from './i18n/PT/tree-resources';
 export * from './i18n/PT/resources';
 // Romanian (RO)
 export * from './i18n/RO/calendar-resources';
 export * from './i18n/RO/grid-resources';
 export * from './i18n/RO/paginator-resources';
 export * from './i18n/RO/time-picker-resources';
+export * from './i18n/RO/date-picker-resources';
 export * from './i18n/RO/date-range-picker-resources';
 export * from './i18n/RO/carousel-resources';
 export * from './i18n/RO/list-resources';
+export * from './i18n/RO/tree-resources';
 export * from './i18n/RO/resources';
 // Swedish (SV)
 export * from './i18n/SV/calendar-resources';
 export * from './i18n/SV/grid-resources';
 export * from './i18n/SV/paginator-resources';
 export * from './i18n/SV/time-picker-resources';
+export * from './i18n/SV/date-picker-resources';
 export * from './i18n/SV/date-range-picker-resources';
 export * from './i18n/SV/carousel-resources';
 export * from './i18n/SV/list-resources';
+export * from './i18n/SV/tree-resources';
 export * from './i18n/SV/resources';
 // Turkish (TR)
 export * from './i18n/TR/calendar-resources';
 export * from './i18n/TR/grid-resources';
 export * from './i18n/TR/paginator-resources';
 export * from './i18n/TR/time-picker-resources';
+export * from './i18n/TR/date-picker-resources';
 export * from './i18n/TR/date-range-picker-resources';
 export * from './i18n/TR/carousel-resources';
 export * from './i18n/TR/list-resources';
+export * from './i18n/TR/tree-resources';
 export * from './i18n/TR/resources';
