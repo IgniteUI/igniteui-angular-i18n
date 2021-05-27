@@ -20,5 +20,5 @@ export const IgxResourceStringsPL = {
     ...CarouselResourceStringsPL,
     ...ListResourceStringsPL,
     ...CalendarResourceStringsPL,
-    ...TreeResourceStringsPL 
+    ...TreeResourceStringsPL
 };
