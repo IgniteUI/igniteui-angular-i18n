@@ -2,12 +2,12 @@ import { IPaginatorResourceStrings } from 'igniteui-angular';
 
 // exported below as re-cast to create declaration type with expanded properties
 const PaginatorResourceStringsSV_: ExpandRequire<IPaginatorResourceStrings> = {
-    igx_paginator_label: 'Items per page',
-    igx_paginator_pager_text: 'of',
-    igx_paginator_first_page_button_text: 'Go to first page',
-    igx_paginator_previous_page_button_text: 'Previous page',
-    igx_paginator_last_page_button_text: 'Go to last page',
-    igx_paginator_next_page_button_text: 'Next page',
+    igx_paginator_label: 'Objekt per sida',
+    igx_paginator_pager_text: 'av',
+    igx_paginator_first_page_button_text: 'Gå till första sidan',
+    igx_paginator_previous_page_button_text: 'Föregående sida',
+    igx_paginator_last_page_button_text: 'Gå till sista sidan',
+    igx_paginator_next_page_button_text: 'Nästa sida',
 };
 
 /**
