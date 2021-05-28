@@ -100,7 +100,7 @@ const GridResourceStringsDA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_advanced_filter_ungroup: 'Fjern gruppe',
     igx_grid_advanced_filter_delete: 'Slet',
     igx_grid_advanced_filter_delete_filters: 'Slet filtre',
-    igx_grid_advanced_filter_initial_text: 'Start med at oprette en tilstandsgruppe, der er knyttet til 'Og' eller 'Eller'',
+    igx_grid_advanced_filter_initial_text: 'Start med at oprette en tilstandsgruppe, der er knyttet til "Og" eller "Eller"',
     igx_grid_advanced_filter_column_placeholder: 'Vælg kolonne',
     igx_grid_advanced_filter_value_placeholder: 'Værdi',
     igx_grid_pinned_row_indicator: 'Fastgjort',
