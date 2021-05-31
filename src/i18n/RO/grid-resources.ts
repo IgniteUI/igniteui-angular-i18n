@@ -121,7 +121,7 @@ const GridResourceStringsRO_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_add_row_label: 'ADAUGĂ RÂND',
     igx_grid_actions_add_child_label: 'Adaugă copil',
     igx_grid_actions_delete_label: 'Șterge',
-    igx_grid_actions_pin_label: 'Pin',
+    igx_grid_actions_pin_label: 'Fixare',
     igx_grid_actions_unpin_label: 'Anulați fixarea',
     igx_grid_actions_jumpUp_label: 'Sari sus',
     igx_grid_actions_jumpDown_label: 'Sari jos'
