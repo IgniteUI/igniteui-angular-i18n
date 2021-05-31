@@ -7,6 +7,6 @@ const TreeResourceStringsKO_: ExpandRequire<ITreeResourceStrings> = {
 };
 
 /**
- * German resource strings for IgxCalendar
+ * Korean resource strings for IgxTree
  */
 export const TreeResourceStringsKO = TreeResourceStringsKO_ as ExpandRequire<ITreeResourceStrings>;

@@ -7,6 +7,6 @@ const TreeResourceStringsBG_: ExpandRequire<ITreeResourceStrings> = {
 };
 
 /**
- * Bulgarian resource strings for IgxCalendar
+ * Bulgarian resource strings for IgxTree
  */
 export const TreeResourceStringsBG = TreeResourceStringsBG_ as ExpandRequire<ITreeResourceStrings>;

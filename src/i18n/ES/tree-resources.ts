@@ -7,6 +7,6 @@ const TreeResourceStringsES_: ExpandRequire<ITreeResourceStrings> = {
 };
 
 /**
- * German resource strings for IgxCalendar
+ * Spanish resource strings for IgxTree
  */
 export const TreeResourceStringsES = TreeResourceStringsES_ as ExpandRequire<ITreeResourceStrings>;
