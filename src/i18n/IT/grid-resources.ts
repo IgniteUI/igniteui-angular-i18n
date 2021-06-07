@@ -75,6 +75,7 @@ const GridResourceStringsIT_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_excel_pin: 'Appunta colonna',
   igx_grid_excel_unpin: 'Sblocca colonna',
   igx_grid_excel_select: 'Seleziona colonna',
+  igx_grid_excel_deselect: 'Seleziona colonna',
   igx_grid_excel_text_filter: 'Filtro testo',
   igx_grid_excel_number_filter: 'Filtro numerico',
   igx_grid_excel_date_filter: 'Filtro data',

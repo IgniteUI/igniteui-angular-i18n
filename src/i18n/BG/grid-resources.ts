@@ -75,6 +75,7 @@ const GridResourceStringsBG_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Закачи колоната',
     igx_grid_excel_unpin: 'Откачи колоната',
     igx_grid_excel_select: 'Избери колоната',
+    igx_grid_excel_deselect: 'Избери колоната',
     igx_grid_excel_text_filter: 'Филтър на текста',
     igx_grid_excel_number_filter: 'Филтър на номера',
     igx_grid_excel_date_filter: 'Филтър на дати',
