@@ -80,6 +80,7 @@ const GridResourceStringsES_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_excel_pin: 'Anclar columna',
   igx_grid_excel_unpin: 'Desanclar columna',
   igx_grid_excel_select: 'Seleccionar columna',
+  igx_grid_excel_deselect: 'Seleccionar columna',
   igx_grid_excel_text_filter: 'Filtro de texto',
   igx_grid_excel_number_filter: 'Filtro numérico',
   igx_grid_excel_date_filter: 'Filtro de fecha',

@@ -80,6 +80,7 @@ const GridResourceStringsDE_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_excel_pin: 'Fixiere Spalte',
   igx_grid_excel_unpin: 'Löse Spalte',
   igx_grid_excel_select: 'Selektiere Spalte',
+  igx_grid_excel_deselect: 'Selektiere Spalte',
   igx_grid_excel_text_filter: 'Text-Filter',
   igx_grid_excel_number_filter: 'Zahlen-Filter',
   igx_grid_excel_date_filter: 'Datums-Filter',
