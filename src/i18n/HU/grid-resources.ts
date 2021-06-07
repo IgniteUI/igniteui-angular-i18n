@@ -77,6 +77,7 @@ const GridResourceStringsHU_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Oszlop rögzítése',
     igx_grid_excel_unpin: 'Oszlop rögzítésének feloldása',
     igx_grid_excel_select: 'Oszlop kiválasztása',
+    igx_grid_excel_deselect: 'Oszlop kiválasztása',
     igx_grid_excel_text_filter: 'Szövegszűrő',
     igx_grid_excel_number_filter: 'Számszűrő',
     igx_grid_excel_date_filter: 'Dátumszűrő',
