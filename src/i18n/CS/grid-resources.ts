@@ -75,7 +75,7 @@ const GridResourceStringsCS_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Připnout sloupec',
     igx_grid_excel_unpin: 'Uvolnit sloupec',
     igx_grid_excel_select: 'Vyberte sloupec',
-    igx_grid_excel_deselect: 'Vyberte sloupec',
+    igx_grid_excel_deselect: 'Zrušit výběr sloupce',
     igx_grid_excel_text_filter: 'Textový filtr',
     igx_grid_excel_number_filter: 'Filtr čísel',
     igx_grid_excel_date_filter: 'Filtr data',
