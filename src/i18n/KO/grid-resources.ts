@@ -80,7 +80,7 @@ const GridResourceStringsKO_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: '열 고정',
     igx_grid_excel_unpin: '열 고정 해제',
     igx_grid_excel_select: '열 선택',
-    igx_grid_excel_deselect: '열 선택',
+    igx_grid_excel_deselect: '열 선택 취소',
     igx_grid_excel_text_filter: '텍스트 필터',
     igx_grid_excel_number_filter: '숫자 필터',
     igx_grid_excel_date_filter: '날짜 필터',

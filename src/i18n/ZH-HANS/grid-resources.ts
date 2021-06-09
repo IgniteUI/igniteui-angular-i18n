@@ -80,7 +80,7 @@ const GridResourceStringsZHHANS_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_excel_pin: '固定列',
   igx_grid_excel_unpin: '取消固定列',
   igx_grid_excel_select: '选择列',
-  igx_grid_excel_deselect: '选择列',
+  igx_grid_excel_deselect: '取消选择列',
   igx_grid_excel_text_filter: '文本筛选器',
   igx_grid_excel_number_filter: '数字筛选器',
   igx_grid_excel_date_filter: '日期筛选器',

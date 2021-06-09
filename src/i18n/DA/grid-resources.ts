@@ -82,7 +82,7 @@ const GridResourceStringsDA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Fastgør kolonne',
     igx_grid_excel_unpin: 'Frigør kolonne',
     igx_grid_excel_select: 'Vælg kolonne',
-    igx_grid_excel_deselect: 'Vælg kolonne',
+    igx_grid_excel_deselect: 'Fravælg kolonne',
     igx_grid_excel_text_filter: 'Tekstfilter',
     igx_grid_excel_number_filter: 'Talfilter',
     igx_grid_excel_date_filter: 'Datofilter',

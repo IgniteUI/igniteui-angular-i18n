@@ -80,7 +80,7 @@ const GridResourceStringsFR_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_excel_pin: 'Fixer la colonne',
   igx_grid_excel_unpin: 'Détacher la colonne',
   igx_grid_excel_select: 'Sélectionner la colonne',
-  igx_grid_excel_deselect: 'Sélectionner la colonne',
+  igx_grid_excel_deselect: 'Désélectionner la colonne',
   igx_grid_excel_text_filter: 'Filtre de texte',
   igx_grid_excel_number_filter: 'Filtre numérique',
   igx_grid_excel_date_filter: 'Filtre de date',
