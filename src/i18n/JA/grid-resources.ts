@@ -75,7 +75,7 @@ const GridResourceStringsJA_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: '列のピン固定',
     igx_grid_excel_unpin: '列のピン固定解除',
     igx_grid_excel_select: '列の選択',
-    igx_grid_excel_deselect: '列の選択',
+    igx_grid_excel_deselect: '列選択の解除',
     igx_grid_excel_text_filter: 'テキスト フィルター',
     igx_grid_excel_number_filter: '数値フィルター',
     igx_grid_excel_date_filter: '日付フィルター',

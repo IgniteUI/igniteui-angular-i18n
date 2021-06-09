@@ -75,7 +75,7 @@ const GridResourceStringsZHHANT_: ExpandRequire<IGridResourceStrings> = {
   igx_grid_excel_pin: '釘選列',
   igx_grid_excel_unpin: '取消釘選列',
   igx_grid_excel_select: '選擇列',
-  igx_grid_excel_deselect: '選擇列',
+  igx_grid_excel_deselect: '取消選擇列',
   igx_grid_excel_text_filter: '文字篩選條件',
   igx_grid_excel_number_filter: '編號篩選條件',
   igx_grid_excel_date_filter: '日期篩選條件',

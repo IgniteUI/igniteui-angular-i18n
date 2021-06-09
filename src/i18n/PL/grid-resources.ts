@@ -77,7 +77,7 @@ const GridResourceStringsPL_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Przypnij kolumnę',
     igx_grid_excel_unpin: 'Odepnij kolumnę',
     igx_grid_excel_select: 'Zaznacz kolumnę',
-    igx_grid_excel_deselect: 'Zaznacz kolumnę',
+    igx_grid_excel_deselect: 'Anuluj wybór kolumny',
     igx_grid_excel_text_filter: 'Filtr tekstu',
     igx_grid_excel_number_filter: 'Filtr liczb',
     igx_grid_excel_date_filter: 'Filtr daty',
