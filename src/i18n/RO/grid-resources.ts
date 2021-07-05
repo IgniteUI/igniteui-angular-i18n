@@ -77,6 +77,7 @@ const GridResourceStringsRO_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Fixați coloana',
     igx_grid_excel_unpin: 'Anulați fixarea coloanei',
     igx_grid_excel_select: 'Selectați coloana',
+    igx_grid_excel_deselect: 'Deselectați coloana',
     igx_grid_excel_text_filter: 'Filtru text',
     igx_grid_excel_number_filter: 'Filtru numeric',
     igx_grid_excel_date_filter: 'Filtru de dată',
