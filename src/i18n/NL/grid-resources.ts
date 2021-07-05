@@ -82,6 +82,7 @@ const GridResourceStringsNL_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Kolom vastmaken',
     igx_grid_excel_unpin: 'Kolom losmaken',
     igx_grid_excel_select: 'Kolom selecteren',
+    igx_grid_excel_deselect: 'Kolom deselecteren',
     igx_grid_excel_text_filter: 'Tekstfilter',
     igx_grid_excel_number_filter: 'Nummerfilter',
     igx_grid_excel_date_filter: 'Datumfilter',
