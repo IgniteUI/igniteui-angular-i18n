@@ -75,6 +75,7 @@ const GridResourceStringsTR_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Sütunu sabitle',
     igx_grid_excel_unpin: 'Sütunun sabitlemesini kaldır',
     igx_grid_excel_select: 'Sütun seç',
+    igx_grid_excel_deselect: 'Sütunun seçimini kaldır',
     igx_grid_excel_text_filter: 'Metin filtresi',
     igx_grid_excel_number_filter: 'Sayı filtresi',
     igx_grid_excel_date_filter: 'Tarih filtresi',
