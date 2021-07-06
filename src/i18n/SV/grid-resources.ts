@@ -82,6 +82,7 @@ const GridResourceStringsSV_: ExpandRequire<IGridResourceStrings> = {
     igx_grid_excel_pin: 'Fäst kolumn',
     igx_grid_excel_unpin: 'Lossa kolumnen',
     igx_grid_excel_select: 'Välj kolumn',
+    igx_grid_excel_deselect: 'Avmarkera kolumn',
     igx_grid_excel_text_filter: 'Textfilter',
     igx_grid_excel_number_filter: 'Nummerfilter',
     igx_grid_excel_date_filter: 'Datumfilter',
