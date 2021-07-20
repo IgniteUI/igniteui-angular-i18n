@@ -1,7 +1,5 @@
 # igniteui-angular-i18n
 
-[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
-
 > Note: The source for the package has been moved under [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) monorepo, under [igniteui-angular-i18n](https://github.com/IgniteUI/igniteui-angular/tree/master/projects/igniteui-angular-i18n) project.
 
 ## Purpose
